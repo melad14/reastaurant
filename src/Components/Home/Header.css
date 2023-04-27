@@ -1,0 +1,48 @@
+
+header{
+background: url('../../images/3.jpg') center no-repeat;
+background-size: cover;
+width: 100%;
+max-width: 100%;
+text-align: left;
+height: 600px;
+overflow: hidden;
+font-family: 'Tajawal', sans-serif;
+
+
+}
+header h2{
+    color: #43121d;
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 60px;
+}
+header p{
+    color: #333;
+    
+}
+header button{
+    background-color:#a82d49 ;
+ color: #fff;
+ width: 150px;
+ height: 50px;
+border: 1px solid #a82d49;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+}
+header button:last-of-type{
+    background-color:#fff;
+ color: #000;
+}
+header button:last-of-type:hover{
+    background-color:#a82d49;
+ color: #fff;
+}
+header button:first-of-type:hover{
+    background-color:#fff;
+ color: #a82d49;
+}
+header button:hover{
+transition: .2s ease-in-out;
+}

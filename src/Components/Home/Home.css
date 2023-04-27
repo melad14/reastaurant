@@ -1,0 +1,149 @@
+.numbers{
+    background-color: #a82d49;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    overflow: hidden;
+
+}
+.numbers h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+  
+}
+.numbers h6{
+color: #fff;
+text-transform: uppercase;
+  
+}
+.boton{
+    background-color:#a82d49 ;
+ color: #fff;
+ width: 150px;
+ height: 50px;
+border: 1px solid #a82d49;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 1px;
+}
+.boton:hover{
+    background-color:#fff;
+ color: #a82d49;
+}
+.sc4n h2{
+    color: #43121d;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.sc4n p{
+    color: #333;
+    letter-spacing: 1px;
+}
+.sc4n li{
+    list-style-type: square;
+    color: #333;
+    letter-spacing: 1px;
+}
+.photoo{
+    border-radius: 5%;
+}
+.paralex{
+    background: url('../../images/1.jpg')center no-repeat ;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.paralex a{
+    color: #a82d49;
+    text-decoration: none;
+    font-size: 20px;
+}
+.paralex i{
+    color:#333;
+    font-size: 15px;
+}
+.blog h4,h3{
+        color: #43121d;
+        font-weight: bold;  
+}
+.slider{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    width: 100%;
+    height: 500px;
+    max-width: 100%;
+    text-align: center;
+    padding: 25px;
+}
+.slider img{
+    border-radius: 50%;
+    width:100px ;
+    height: 100px;
+    margin-bottom: 150px;
+}
+.slider p,.questions p{
+color: #212121;
+    font-size:17px ;
+    line-height: 30px;
+
+}
+.slider h3{
+    color: #43121d;
+    display: block;
+    text-transform: uppercase;
+    margin: 20px 0px;
+
+}
+.slider .cars{
+    width: 80%;
+    padding: 20px;
+   background-color: #fff;
+   border: 1px solid #fff;
+border-radius: 10px;
+}
+.slider .carousel-indicators button{
+    
+background-color: #212121 !important;
+}
+.questions h3{
+    color: #43121d;
+}
+.backgr{
+    background: url('../../images/pizza.jpg')center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.parent{
+        background-color: #0b0b0b70;
+        height: 100%;
+}
+.email{
+    height: 50px;
+    padding: 0 20px;
+    font-size: 14px;
+    width: 40%;
+    background: transparent;
+    border: 3px solid #cfcdcd;
+    color: #000;
+}
+
+
+footer {
+    background: #a82d49;
+    padding: 80px 0 0;
+  
+}
+footer a{
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 25px;
+    margin: 0 10px;
+}
